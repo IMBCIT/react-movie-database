@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+React Movie Database that uses functional components, hooks, styled components, and the movie database API to create a front end for the database.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
